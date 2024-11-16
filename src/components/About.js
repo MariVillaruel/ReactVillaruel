@@ -6,15 +6,13 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Kent.
+            Hi, I'm Mari.
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            From sleek, modern websites to dynamic, scalable applications, I
-            bring your ideas to life with precision and passion. Let’s create
-            something incredible together — tailored just for your needs and
-            vision.
+            From Games, to Digital Art. Let’s create
+            something incredible together. 
           </p>
           <div className="flex justify-center">
             <a
@@ -35,7 +33,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded-full"
             alt="hero"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7N_-tv1TAZ7hYCqFLVV4oQ1XNTwFn__OzJw&s"
+            src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/462240032_564278769300688_8469642525635698606_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGI81sMeYklDqbGQiCvm1dlcMI7c0lOzodwwjtzSU7Oh5aWk1xp-eXfEv835B_1lMQRzvtlattfctYvt8ccsjWm&_nc_ohc=mH5_VvgKDgIQ7kNvgEl3x5b&_nc_zt=23&_nc_ht=scontent.fmnl9-4.fna&_nc_gid=A2opODVcwwKFg3KkQLctfqc&oh=00_AYAbZZ1eTSY0NW3BwhpmVILTp6hGJQA-7VXmeKXLNHE0Cg&oe=673E246F"
           />
         </div>
       </div>
