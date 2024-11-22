@@ -21,10 +21,7 @@ export const projects = [
 
 export const skills = [
   "React",
-  "React Native",
   "Javascript",
-  "TypeScript",
   "Java",
-  "Kotlin",
   "PHP",
 ];
