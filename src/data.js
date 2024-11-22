@@ -6,7 +6,7 @@ export const projects = [
       "A story driven game filled with puzzles and riddles in order to lift the Dragonlord's",
     image:
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/363890/capsule_616x353.jpg?t=1731551278",
-    link: "https://github.com/kentbrianbravo/ts",
+    link: "https://drive.google.com/drive/folders/1gS3bMlvK2xH1sWN5CUWVrsncHnUVRIzJ?usp=drive_link",
   },
   {
     title: "SpaceShooter",
