@@ -33,7 +33,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded-full"
             alt="hero"
-            src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/462240032_564278769300688_8469642525635698606_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGI81sMeYklDqbGQiCvm1dlcMI7c0lOzodwwjtzSU7Oh5aWk1xp-eXfEv835B_1lMQRzvtlattfctYvt8ccsjWm&_nc_ohc=mH5_VvgKDgIQ7kNvgEl3x5b&_nc_zt=23&_nc_ht=scontent.fmnl9-4.fna&_nc_gid=A2opODVcwwKFg3KkQLctfqc&oh=00_AYAbZZ1eTSY0NW3BwhpmVILTp6hGJQA-7VXmeKXLNHE0Cg&oe=673E246F"
+            src="https://scontent.fmnl31-1.fna.fbcdn.net/v/t39.30808-6/462240032_564278769300688_8469642525635698606_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGI81sMeYklDqbGQiCvm1dlcMI7c0lOzodwwjtzSU7Oh5aWk1xp-eXfEv835B_1lMQRzvtlattfctYvt8ccsjWm&_nc_ohc=sV9WcDSoqUMQ7kNvgGDK-yW&_nc_zt=23&_nc_ht=scontent.fmnl31-1.fna&_nc_gid=Ak8xVmx88toaj3ASwC4dYob&oh=00_AYDU4vLXVmaOo23ogYwGFyYNVp8ut92Pgc0dKZo0n75Gtg&oe=6746B62F"
           />
         </div>
       </div>
